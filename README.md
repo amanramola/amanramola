@@ -13,6 +13,8 @@ Welcome to my GitHub profile!
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-00618A?style=for-the-badge&logo=javascript&logoColor=yellow)
+![React](https://img.shields.io/badge/React-00618A?style=for-the-badge&logo=react&logoColor=blue)
+![Redux](https://img.shields.io/badge/Redux-00618A?style=for-the-badge&logo=redux&logoColor=violet)
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 
