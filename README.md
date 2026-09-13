@@ -21,3 +21,7 @@ Welcome to my GitHub profile!
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=amanramola&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amanramola&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanramola&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
