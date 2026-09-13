@@ -24,5 +24,5 @@ Welcome to my GitHub profile!
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanramola&show_icons=true&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanRamola&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanramola&layout=compact&theme=tokyonight)
